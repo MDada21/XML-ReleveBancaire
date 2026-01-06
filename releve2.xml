@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<releve xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="releve.xsd" RIB="">
+    <dateReleve>2026-01-01</dateReleve>
+    <solde>10000</solde>
+    <operations>
+        <operation type="CREDIT" date="2026-01-05" montant="5000"/>
+    </operations>
+</releve>

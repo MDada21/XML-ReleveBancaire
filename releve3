@@ -1,0 +1,45 @@
+<!DOCTYPE HTML>
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <title>Relevé Bancaire</title>
+   </head>
+   <body>
+      <h2>Relevé du RIB : 011112222333344445555666</h2>
+      <p>Date : </p>
+      <table border="1">
+         <tr>
+            <th>Date</th>
+            <th>Type</th>
+            <th>Description</th>
+            <th>Montant</th>
+         </tr>
+         <tr>
+            <td>2026-05-05</td>
+            <td>CREDIT</td>
+            <td></td>
+            <td>5000</td>
+         </tr>
+         <tr>
+            <td>2026-01-05</td>
+            <td>CREDIT</td>
+            <td></td>
+            <td>5000</td>
+         </tr>
+         <tr>
+            <td>2025-01-05</td>
+            <td>DEBIT</td>
+            <td></td>
+            <td>500</td>
+         </tr>
+         <tr>
+            <td>2026-05-05</td>
+            <td>CREDIT</td>
+            <td></td>
+            <td>5000</td>
+         </tr>
+      </table>
+      <p>Total Crédits : <b>15000</b></p>
+      <p>Total Débits : <b>500</b></p>
+   </body>
+</html>

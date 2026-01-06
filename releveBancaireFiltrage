@@ -1,0 +1,22 @@
+<html>
+   <body>
+      <h3>Liste des Cr&eacute;dits</h3>
+      <ul>
+         <li>
+            Date: 2026-05-05 - 
+            Montant: 5000 - 
+            Description: 
+         </li>
+         <li>
+            Date: 2026-01-05 - 
+            Montant: 5000 - 
+            Description: 
+         </li>
+         <li>
+            Date: 2026-05-05 - 
+            Montant: 5000 - 
+            Description: 
+         </li>
+      </ul>
+   </body>
+</html>

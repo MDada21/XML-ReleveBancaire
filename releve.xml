@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE releve SYSTEM "releve.dtd">
+<releve RIB="011112222333344445555666">
+    <datereleve>2026-01-06</datereleve>
+    <solde>60000</solde>
+    <operations datedebut="2026-01-01" datefin="2026-01-02">
+        <operation type="CREDIT" date="2026-05-05" montant="5000"/>
+        <operation type="CREDIT" date="2026-01-05" montant="5000"/>
+        <operation type="DEBIT" date="2025-01-05" montant="500"/>
+        <operation type="CREDIT" date="2026-05-05" montant="5000"/>
+    </operations>
+</releve>
+

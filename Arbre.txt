@@ -1,0 +1,9 @@
+* releve (Attribut: RIB) :racine
+
+   - dateReleve (Texte)
+
+   - solde (Texte)
+
+   - operations (Attributs: dateDebut, dateFin)
+
+      - operation (Attributs: type, date, montant, description)
